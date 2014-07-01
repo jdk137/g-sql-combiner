@@ -3,6 +3,7 @@ g-sql-combiner
 sql combiner
 
 This is only a module copy from scapegoat to learn creating a module.
+================================================================
 
 A small library providing utility methods to `escape` and `unescape` HTML entities
 
