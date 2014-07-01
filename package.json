@@ -1,5 +1,5 @@
 {
-  "name": "github",
+  "name": "g-sql-combiner",
   "version": "0.0.1",
   "description": "group sql combiner",
   "main": "index.js",
